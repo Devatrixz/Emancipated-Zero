@@ -1,6 +1,6 @@
 # Emancipated Zero
 
-## Emancipated Zero is a multifunctional cyber attack tool. You can start your cyber actions using all our currently supported commands.
+### Emancipated Zero is a multifunctional cyber attack tool. You can start your cyber actions using all our currently supported commands.
 
 # Use:
 ```
@@ -19,4 +19,4 @@ matrixtool - Allows you to create a RAT (Remote Administrator Trojan). This syst
 ip query - Allows you to find out the location, country, region, coordinates and other information of an IP
 ```
 
-## This project is currently in development and is available as open source for your contributions. You can use it however you want!
+### This project is currently in development and is available as open source for your contributions. You can use it however you want!
