@@ -4,7 +4,7 @@
 
 # Use:
 
-`dc token grabber - A command to steal Discord users' tokens.
+``dc token grabber - A command to steal Discord users' tokens.
 
 ngl spammer - Aims to send spam messages on the NGL platform. Drives the target crazy. Since NGL has no message sending restrictions, you can use it as you wish.
  
@@ -16,6 +16,6 @@ smsbomber - Sends the number of SMS messages you specify to the target phone num
 
 matrixtool - Allows you to create a RAT (Remote Administrator Trojan). This system was made for Discord. It transfers information to you via a Webhook via Discord.
 
-ip query - Allows you to find out the location, country, region, coordinates and other information of an IP`
+ip query - Allows you to find out the location, country, region, coordinates and other information of an IP``
 
 ## This project is currently in development and is available as open source for your contributions. You can use it however you want!
