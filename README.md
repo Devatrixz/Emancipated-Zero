@@ -19,7 +19,9 @@ matrixtool - Allows you to create a RAT (Remote Administrator Trojan). This syst
 ip query - Allows you to find out the location, country, region, coordinates and other information of an IP
 ```
 
-When you run a python feature, the requirements are automatically installed. But still, to install it manually, follow this path:
+When you run a python feature, the requirements are automatically installed.
+
+# Installation:
 
 1. ``git clone https://github.com/Devatrixz/Emancipated-Zero.git``
 2. Use Visual Studio 2019 or newer. Make sure you are using .NET Framework 4.7.2.
