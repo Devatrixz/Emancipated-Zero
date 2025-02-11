@@ -1,0 +1,50 @@
+IP Adresi: 8.8.8.8
+Ülke: United States
+Şehir: Ashburn
+Enlem: 39,03
+Boylam: -77,5
+ISP: Google LLC
+Bölge: Virginia
+Saat Dilimi: America/New_York
+AS: AS15169 Google LLC
+
+IP Adresi: 8.8.8.8
+Ülke: United States
+Şehir: Ashburn
+Enlem: 39,03
+Boylam: -77,5
+ISP: Google LLC
+Bölge: Virginia
+Saat Dilimi: America/New_York
+AS: AS15169 Google LLC
+
+IP Adresi: 1.1.1.1
+Ülke: Australia
+Şehir: South Brisbane
+Enlem: -27,4766
+Boylam: 153,0166
+ISP: Cloudflare, Inc
+Bölge: Queensland
+Saat Dilimi: Australia/Brisbane
+AS: AS13335 Cloudflare, Inc.
+
+IP Adresi: 8.8.8.8
+Ülke: United States
+Şehir: Ashburn
+Enlem: 39,03
+Boylam: -77,5
+ISP: Google LLC
+Bölge: Virginia
+Saat Dilimi: America/New_York
+AS: AS15169 Google LLC
+
+IP Adresi: 31.145.42.116
+Ülke: Türkiye
+Şehir: Körfez
+Enlem: 40,812
+Boylam: 29,7574
+ISP: BIZIMINTERNETBILISIM
+Bölge: Kocaeli
+Saat Dilimi: Europe/Istanbul
+AS: AS15924 Vodafone Net Iletisim Hizmetler AS
+

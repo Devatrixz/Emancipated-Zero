@@ -1,0 +1,6 @@
+SMS aracýnýn çalýþmasý için aþaðýdaki gereksnimleri kurmanýz gerekmekte: 
+
+colorama==0.3.9
+requests==2.26.0
+
+Kurmak için: pip install [eklenti ör: colorama]

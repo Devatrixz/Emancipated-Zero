@@ -1,0 +1,10 @@
+C:\Users\metri\source\repos\Emancipated Zero\Emancipated Zero\bin\Debug\Emancipated Zero.exe.config
+C:\Users\metri\source\repos\Emancipated Zero\Emancipated Zero\bin\Debug\Emancipated Zero.exe
+C:\Users\metri\source\repos\Emancipated Zero\Emancipated Zero\bin\Debug\Emancipated Zero.pdb
+C:\Users\metri\source\repos\Emancipated Zero\Emancipated Zero\obj\Debug\Emancipated Zero.csproj.AssemblyReference.cache
+C:\Users\metri\source\repos\Emancipated Zero\Emancipated Zero\obj\Debug\Emancipated Zero.csproj.CoreCompileInputs.cache
+C:\Users\metri\source\repos\Emancipated Zero\Emancipated Zero\obj\Debug\Emancipated Zero.exe
+C:\Users\metri\source\repos\Emancipated Zero\Emancipated Zero\obj\Debug\Emancipated Zero.pdb
+C:\Users\metri\source\repos\Emancipated Zero\Emancipated Zero\bin\Debug\Newtonsoft.Json.dll
+C:\Users\metri\source\repos\Emancipated Zero\Emancipated Zero\bin\Debug\Newtonsoft.Json.xml
+C:\Users\metri\source\repos\Emancipated Zero\Emancipated Zero\obj\Debug\Emancipated Zero.csproj.CopyComplete

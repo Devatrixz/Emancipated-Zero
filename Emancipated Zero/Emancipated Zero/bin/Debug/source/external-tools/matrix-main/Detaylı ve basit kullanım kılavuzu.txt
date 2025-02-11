@@ -1,0 +1,56 @@
+MATRIX - by MatrixDeveloper - Suat Kýlýnç
+
+MATRIX Nedir? Nasýl kullanýlýr?
+
+MATRIX, çok yönlü Truva atýdýr. Söz konusu cihazýn Internet bilgilerini, discord bilgilerini, kullandýðý tarayýcýyý ve kayýtlý þifre-
+leri dahi sizim bilgisayarýnýzda toplar ve bir Discord webhook ile belirlediðiniz kanala bilgileri mesaj olarak gönderir.
+
+
+MATRIX, Python 3.10 ve nextcord ile çalýþan bir python uygulamasýdýr.
+
+KURULUM:
+
+1- nextcord'u bilgisayarýnýza indirin
+
+NEXTCORD KURULUMU:
+
+KURULUMDAN ÖNCE PYTHON 3.10 KURUN!
+
+Nextcord kurulumu biraz karmaþýk gelebilir. Sakin olun. Bir noob'a anlatýyor gibi anlatacaðým.
+1 - Ýlk öncelikle Baþlat + R tuþ kombinasyonunu uygulayýn.
+2 - Çalýþtýr penceresine ilk önce þu kodu girin: py -3 -m pip install -U nextcord
+3 - Ardýndan bir CMD ekraný açýlacak. Rahat olun ve bekleyin.
+4 - Daha sonra çalýþtýr penceresine þu kodu girin: py -3 -m pip install -U nextcord[speed]
+
+Her 2 kod için ekranda bazý seçenekler sunabilir. Tercihinizi yapýn:
+Y = Yes
+N = No
+Yazýp ENTER basýn
+
+MATRIX BINARY BUILD:
+
+Daha sonra MATRIX - main'e gelin. Klasörde build.bat dosyasýna çift týklayýn ve açýn. Ve panel buildlenecektir.
+Daha sonra MATRIX açýlacaktýr.
+
+CMD ekranýnda sizden bir webhook URL isteyecektir. Sunucunuza bir tane webhook oluþturun ve URL yi kopyalayýp yapýþtýrýn.
+
+UYARI!
+WEBHOOK OLUÞTURMAYI YENÝ BÝR SUNUCUDA YAPIN. EÐER BÝR SUNUCUZ VAR ÝSE VE WEBHOOK O SUNUCUDAYSA BÝLGÝLER O SUNUCUDAKÝ BÝR METÝN KANA-
+LINA GÝDECEK VE SUNUCUDAKÝ HERKEZ BÝLGÝLERÝ GÖREBÝLECEK!
+
+Daha sonra tercihlerinizi yapýp inþanýn bitirilmesini bekleyin.
+
+Ana klasörde dist adýnda bir klasör oluþmalýdýr içerisinde main.exe var iþte virüsünüz hazýr.
+
+Virüsü açan kiþinin bilgileri anýnda oluþturduðunuz sunucuya gelecek.
+
+Yapýlan virüsü dilerseniz deneyebilirsiniz. Ama dikkat edin. Yeni bir sunucu açýp deneyin. Eðer böyle yaparsanýz bilgileri
+sadece siz görebileceksiniz.
+
+Bu virüsü artýk nasýl yedirirsiniz, o da size kalmýþ. Ýster Hile bahanesyle deneyin. Ýster baþka bir þeyle.
+
+COPYRIGHT 2010 - 2024 DEVATRIX
+
+Tüm haklarý saklýdýr.
+
+Bu yazýlým GNU General Public License 3.0 kapsamýnda lisanslanmýþtýr.
